@@ -1,0 +1,55 @@
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.csproj.AssemblyReference.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.LoadingScreen.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel_the_Snake.Properties.Resources.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.csproj.GenerateResource.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.csproj.CoreCompileInputs.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Manuel the Snake.exe.config
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Manuel the Snake.exe
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Manuel the Snake.pdb
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.exe
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.pdb
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.MainForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.EasyDifficultyForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.ControlsAndRules.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.HardDifficultyForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.BadEndingForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.GoodEndingForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Змията_игра_1._0.settings.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Microsoft.PowerBI.Api.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Newtonsoft.Json.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Newtonsoft.Json.xml
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\Interop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\bin\Debug\AxInterop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Interop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\AxInterop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.csproj.ResolveComReference.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel_the_Snake.PauseForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel the Snake\obj\Debug\Manuel the Snake.csproj.CopyComplete
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\bin\Debug\Manuel the Snake.exe.config
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\bin\Debug\Manuel the Snake.exe
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\bin\Debug\Manuel the Snake.pdb
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\bin\Debug\Newtonsoft.Json.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\bin\Debug\Interop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\bin\Debug\AxInterop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.csproj.AssemblyReference.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Interop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\AxInterop.WMPLib.dll
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.csproj.ResolveComReference.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.EasyDifficultyForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.ControlsAndRules.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.BadEndingForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.GoodEndingForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.HardDifficultyForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.MainForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.LoadingScreen.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel_the_Snake.PauseForm.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel_the_Snake.Properties.Resources.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Змията_игра_1._0.settings.resources
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.csproj.GenerateResource.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.csproj.CoreCompileInputs.cache
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.csproj.CopyComplete
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.exe
+D:\source\repos\Manuel the Snake GAME\Manuel the Snake\Manuel-the-Snake\obj\Debug\Manuel the Snake.pdb
